@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Project SYSTEM "Project-5.1.dtd">
-<!-- eric project file for project calculator -->
-<!-- Saved: 2017-11-22, 22:45:51 -->
+<!-- eric project file for project 40623125 -->
+<!-- Saved: 2017-12-06, 22:12:28 -->
 <!-- Copyright (C) 2017 ,  -->
 <Project version="5.1">
   <Language>en_US</Language>
-  <Hash>cfd13a27f94dc0c4a940014a1ee4e13e268c27be</Hash>
+  <Hash>1e4e7691ca7c8c904e09f89faa7ed84a6f7af894</Hash>
   <ProgLanguage mixed="0">Python3</ProgLanguage>
   <ProjectType>PyQt5</ProjectType>
   <Version>0.1</Version>
@@ -13,6 +13,7 @@
   <Email></Email>
   <Eol index="0"/>
   <Sources>
+    <Source>__init__.py</Source>
     <Source>ref.py</Source>
     <Source>run.py</Source>
     <Source>ui/Dialog.py</Source>
@@ -24,7 +25,9 @@
   <Translations/>
   <Resources/>
   <Interfaces/>
-  <Others/>
+  <Others>
+    <Other>40623125.e4p</Other>
+  </Others>
   <MainScript>run.py</MainScript>
   <Vcs>
     <VcsType>None</VcsType>
